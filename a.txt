@@ -1,5 +1,7 @@
 The grass is green
 so is my spleen
-Fritos are OK
+Jekyll is a spooky animal
 Don't be mean
-hello
+In fact, it's quite obscene.
+
+- Paul 2019
